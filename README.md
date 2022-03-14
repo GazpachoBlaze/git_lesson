@@ -1,3 +1,2 @@
-#myapp
-
-this is a folder for learning github
+#MyApp
+this is my app
